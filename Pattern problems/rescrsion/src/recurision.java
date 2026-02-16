@@ -1,5 +1,3 @@
-import javax.print.attribute.standard.PrinterName;
-import java.awt.*;
 import java.util.Scanner;
 
 class PrintOneToN {

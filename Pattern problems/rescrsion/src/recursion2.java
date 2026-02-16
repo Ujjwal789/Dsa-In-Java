@@ -1,17 +1,17 @@
 import java.util.Scanner;
 
-public class recursion {
+ class recursion {
     public static void main(String[] args) {
         Solution sol = new Solution();
         Scanner sc = new Scanner(System.in);
         System.out.println("enter your number");
         int n = sc.nextInt();
 
-        Solution.PrintNumber(n);
+        Sum.PrintNumber(n);
     }
 }
 
-class  Solution {
+class  Sum{
     static void PrintNumber(int n ){
         if (n == 0){
             return;
