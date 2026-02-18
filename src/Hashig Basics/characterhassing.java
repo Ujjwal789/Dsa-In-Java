@@ -13,8 +13,6 @@ public class characterhassing {
             hash[s.charAt(i) - 'a']++;  // if lower case (i) - a remove
 
         }
-
-
         while (true){
             System.out.println("enter the charcater query");
             char c = sc.next().charAt(0);
