@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-import static jdk.internal.org.jline.utils.Colors.s;
 
 class Plaindrome{
     public static void main(String[] args) {
