@@ -1,16 +1,16 @@
 public class FirstOccure{
     public static void main(String[] args) {
-        String txt = "hello world";
+        String txt = "hello world my";
         String pat = "world";
 
         System.out.println(firstOccurence(txt, pat));
     }static int firstOccurence(String txt, String pat) {
         // code here
 
-        int n = txt.length();
+        int s = txt.length();
         int m = pat.length();
 
-        for(int i =0; i<=n-m; i++){
+        for(int i =0; i<=s-m; i++){
             int j;
             for(j =0; j<m; j++){
                 if(txt.charAt(i+j) != pat.charAt(j)){
