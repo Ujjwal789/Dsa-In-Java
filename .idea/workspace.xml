@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0c19c1f-d965-4f8c-8d00-1ededf4d3957" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/Arrays/Arraysort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/Arrays/ConsucetiveOnes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/Arrays/FindLargest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/Arrays/Findmissing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/Arrays/IntersectionBrute$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/Arrays/IntersectionBrute.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/Arrays/IntersectionOptimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/Arrays/LeftRotate$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/Arrays/LeftRotate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/Arrays/LongestSubArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/Arrays/LongestSubOptimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/Arrays/MoveZeroend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/Arrays/RemoveDuplicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/Arrays/RotatebyK.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/Arrays/Secondlargest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/Arrays/SsmallandSlarge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/Arrays/UnionBrute$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/Arrays/UnionBrute.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/Arrays/UnionSortedArray$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/Arrays/UnionSortedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/Arrays/appearsOnce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/Arrays/appearsOnceOptimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/BruteMajorityII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/CountInversion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/CountInversionMerge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/CountSubArrayXorOP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/CountSubarrayXor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/FindReapeatMissBetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/FindRepeatMiss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/FindRepeatMissOp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/FourSumBetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/FourSumBrute.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/FourSumOptimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/LargestSubarray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/MajoritIIBe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/MajorityOp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/MaxProductSubArrOp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/MaxProductSubarray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/MergeOverlappingSub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/MergeOverlappingSubOP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/MergeSortedBrute.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/MergeSortedOP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/MergesortedGap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/PascaleTElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/PascaleTRow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/PascaleTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/ReversePairMerge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/ReversePairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/ThreeSumB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/ThreeSumBetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/HardArrays/ThreeSumOp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/MediumArrays/ArrangesSignO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/MediumArrays/Arrangesigns.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/MediumArrays/BuySellStock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/MediumArrays/BuySellStockB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/MediumArrays/DutchNationalFalg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/MediumArrays/Kadenalgo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/MediumArrays/Leader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/MediumArrays/LeaderO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/MediumArrays/LongestConseccutive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/MediumArrays/LongestConsecutiveB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/MediumArrays/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/MediumArrays/MajorityBest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/MediumArrays/MajorityElementBrute.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/MediumArrays/MajorityHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/MediumArrays/MaximumSubarraySum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/MediumArrays/Permution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/MediumArrays/RotateMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/MediumArrays/RotateMatrixO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/MediumArrays/SetMatrixZero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/MediumArrays/SortZeroOneTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/MediumArrays/SpiralMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/MediumArrays/SubArraySumK.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/MediumArrays/SubArraySumKO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/MediumArrays/TwoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/out/production/MediumArrays/TwosumBetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics math/out/production/Basic math/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics math/out/production/Basic math/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics math/out/production/Basic math/plaindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics math/out/production/Basic math/reverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hashig Basics/out/production/Hashig Basics/MinMax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hashig Basics/out/production/Hashig Basics/characterhassing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hashig Basics/out/production/Hashig Basics/freqquencyInarry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hashig Basics/out/production/Hashig Basics/frequency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorting/out/production/Sorting/BubbleRecursdion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorting/out/production/Sorting/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorting/out/production/Sorting/InserationRecursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorting/out/production/Sorting/InserationSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorting/out/production/Sorting/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorting/out/production/Sorting/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorting/out/production/Sorting/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rescrsion/out/production/rescrsion/FactorilaofN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rescrsion/out/production/rescrsion/Fiboncce$sol.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rescrsion/out/production/rescrsion/Fiboncce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rescrsion/out/production/rescrsion/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rescrsion/out/production/rescrsion/Plain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rescrsion/out/production/rescrsion/Plaindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rescrsion/out/production/rescrsion/PrintOneToN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rescrsion/out/production/rescrsion/ReverseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rescrsion/out/production/rescrsion/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rescrsion/out/production/rescrsion/Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rescrsion/out/production/rescrsion/SumofN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rescrsion/out/production/rescrsion/fact.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rescrsion/out/production/rescrsion/re.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rescrsion/out/production/rescrsion/recurision.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rescrsion/out/production/rescrsion/recursion.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="39dyWLbfiT0OVEMxcr0ZXebg2HE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.FactorilaofN.executor": "Run",
+    "Application.Fiboncce.executor": "Run",
+    "Application.Plaindrome.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
+    "Application.SquarePattern.executor": "Run",
+    "Application.Strings.executor": "Run",
+    "Application.SumofN.executor": "Run",
+    "Application.loops.executor": "Run",
+    "Application.recurision.executor": "Run",
+    "Application.recursion.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ujjwa/OneDrive/Desktop/DSA in JAva",
+    "onboarding.tips.debug.path": "C:/Users/ujjwa/OneDrive/Desktop/DSA in JAva/Pattern problems/rescrsion/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ujjwa\OneDrive\Desktop\DSA in JAva" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="FactorilaofN" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FactorilaofN" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0c19c1f-d965-4f8c-8d00-1ededf4d3957" name="Changes" comment="" />
+      <created>1771040272249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771040272249</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Pattern problems/rescrsion/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
