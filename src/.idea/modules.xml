@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/BS On 1D Array/BS On 1D Array.iml" filepath="$PROJECT_DIR$/Binary Search/BS On 1D Array/BS On 1D Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/BS On 2D Array/BS On 2D Array.iml" filepath="$PROJECT_DIR$/Binary Search/BS On 2D Array/BS On 2D Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/BS On Answer/BS On Answer.iml" filepath="$PROJECT_DIR$/Binary Search/BS On Answer/BS On Answer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics math/Basics math.iml" filepath="$PROJECT_DIR$/Basics math/Basics math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA in JAva.iml" filepath="$PROJECT_DIR$/DSA in JAva.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/EasyArrays/EasyArrays.iml" filepath="$PROJECT_DIR$/Arrays/EasyArrays/EasyArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/HardArrays/HardArrays.iml" filepath="$PROJECT_DIR$/Arrays/HardArrays/HardArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/MediumArrays/MediumArrays.iml" filepath="$PROJECT_DIR$/Arrays/MediumArrays/MediumArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rescrsion/rescrsion.iml" filepath="$PROJECT_DIR$/rescrsion/rescrsion.iml" />
+    </modules>
+  </component>
+</project>
